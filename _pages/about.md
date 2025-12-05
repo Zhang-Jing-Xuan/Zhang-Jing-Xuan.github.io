@@ -26,7 +26,7 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TIP2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025</div><img src='images/TIP2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unleashing the power of each distilled image](https://ieeexplore.ieee.org/document/11220248)
@@ -37,7 +37,19 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 </div>
 </div>
 
-- [Unleashing the power of each distilled image](https://github.com/Zhang-Jing-Xuan/DD-UP), **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*, **IEEE TIP 2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/NN2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gradient amplification for gradient matching based dataset distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006999)
+
+**Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*
+
+**Neural Networks 2025** \| [**Code**](https://github.com/Zhang-Jing-Xuan/DD-GA) <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+</div>
+</div>
+
+- [Unleashing the power of each distilled image](https://github.com/Zhang-Jing-Xuan/DD-UP), **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*, **IEEE TIP 2025**.
+- [Gradient amplification for gradient matching based dataset distillation](https://github.com/Zhang-Jing-Xuan/DD-GA), **Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*, **Neural Networks 2025**.
 
 # 🎖 Honors and Awards
 - *2022 & 2023* First Prize of Master Academic Scholarship.
