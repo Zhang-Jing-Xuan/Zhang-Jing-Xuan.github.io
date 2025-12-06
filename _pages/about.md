@@ -50,8 +50,8 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 </div>
 </div>
 
-- [Unleashing the power of each distilled image](https://github.com/Zhang-Jing-Xuan/DD-UP), **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*, **IEEE TIP 2025**.
-- [Gradient amplification for gradient matching based dataset distillation](https://github.com/Zhang-Jing-Xuan/DD-GA), **Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*, **Neural Networks 2025**.
+- `IEEE TIP 2025` [Unleashing the power of each distilled image](https://github.com/Zhang-Jing-Xuan/DD-UP), <br> **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*.
+- `Neural Networks 2025`[Gradient amplification for gradient matching based dataset distillation](https://github.com/Zhang-Jing-Xuan/DD-GA), <br> **Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*.
 
 # 🎖 Honors and Awards
 - *2022 & 2023* First Prize of Master Academic Scholarship. 
