@@ -21,10 +21,11 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 1 paper is accepted in IEEE TIP. 
-- *2025.06*: &nbsp;🎉🎉 1 paper is accepted in Neural Networks. 
-- *2024.12*: &nbsp;🎉🎉 J'ai réussi le DALF C1 de justesse, merci à tous les professeurs de français.
-- *2024.07*: &nbsp;🎉🎉 J'ai réussi le DELF B2, merci à tous les professeurs de français.
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted in IEEE TIP. 
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted in Neural Networks. 
+- *2024.12*: &nbsp;🎉🎉 J'ai réussi le DALF C1 de justesse. Merci à tous les professeurs de français.
+- *2024.07*: &nbsp;🎉🎉 J'ai réussi le DELF B2. Merci à tous les professeurs de français.
+- *2020.12*: &nbsp;🎉🎉 Won the Bronze Medal at the ICPC Asia Regional Contest, Shanghai Site. Thanks to teammates Zhuowen Yan and Rufeng Yang.
 
 # 📝 Publications 
 
