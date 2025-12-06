@@ -53,7 +53,7 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 - `IEEE TIP 2025` [Unleashing the power of each distilled image](https://github.com/Zhang-Jing-Xuan/DD-UP), <br> **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*.
 - `Neural Networks 2025`[Gradient amplification for gradient matching based dataset distillation](https://github.com/Zhang-Jing-Xuan/DD-GA), <br> **Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2022 & 2023* First Prize of Master Academic Scholarship. 
 - *2020* Bronze Medal of ICPC Asia Regional Contest, Shanghai Site. 
 - *2019 & 2020* Second Prize of C/C++ Programming (Group A) of Lanqiao Cup, Shanghai.
