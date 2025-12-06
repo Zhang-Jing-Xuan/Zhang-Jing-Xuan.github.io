@@ -64,8 +64,8 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 - *2019* First Prize of ECUST Mathematics Grand Competition.
 
 # 📖 Educations
-- *2022.09 - Present*, East China University of Science and Technology, Shanghai, China, Ph.D. in Computer Science and Technology. 
-- *2018.09 - 2022.06*, East China University of Science and Technology, Shanghai, China, B.E. in Computer Science and Technology.
+- *2022.09 - Present*, East China University of Science and Technology, Shanghai, China, Ph.D. in Computer Science and Engineering. 
+- *2018.09 - 2022.06*, East China University of Science and Technology, Shanghai, China, B.E. in Computer Science and Engineering.
 
 # 💬 Invited Talks
 
