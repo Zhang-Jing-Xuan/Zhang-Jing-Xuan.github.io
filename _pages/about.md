@@ -23,8 +23,8 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted in IEEE TIP. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted in Neural Networks. 
-- *2024.12*: &nbsp;🎉🎉 J'ai réussi le DALF C1 de justesse. Merci à tous les professeurs de français.
-- *2024.07*: &nbsp;🎉🎉 J'ai réussi le DELF B2. Merci à tous les professeurs de français.
+- *2024.12*: &nbsp;🎉🎉 J'ai réussi le DALF C1 de justesse. Merci à tous mes professeurs de français.
+- *2024.07*: &nbsp;🎉🎉 J'ai réussi le DELF B2. Merci à tous mes professeurs de français.
 - *2020.12*: &nbsp;🎉🎉 Won the Bronze Medal at the ICPC Asia Regional Contest (Shanghai). Thanks to teammates Zhuowen Yan and Rufeng Yang.
 
 # 📝 Publications 
@@ -51,8 +51,8 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 </div>
 </div>
 
-- `IEEE TIP 2025` [Unleashing the power of each distilled image](https://github.com/Zhang-Jing-Xuan/DD-UP), <br> **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*.
-- `Neural Networks 2025` [Gradient amplification for gradient matching based dataset distillation](https://github.com/Zhang-Jing-Xuan/DD-GA), <br> **Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*.
+- `IEEE TIP 2025` [Unleashing the power of each distilled image](https://ieeexplore.ieee.org/document/11220248), <br> **Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*.
+- `Neural Networks 2025` [Gradient amplification for gradient matching based dataset distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006999), <br> **Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*.
 
 # 🏆 Honors and Awards
 - *2022 & 2023* First Prize of Master Academic Scholarship. 
