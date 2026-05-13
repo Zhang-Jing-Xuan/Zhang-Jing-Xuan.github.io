@@ -66,7 +66,3 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 - Swimming, table tennis.
 - Playing the piano.
 - French.
-
-# 💬 Invited Talks
-
-# 💻 Internships
