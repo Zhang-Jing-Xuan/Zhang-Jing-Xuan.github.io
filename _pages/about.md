@@ -21,10 +21,10 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted in IEEE TPAMI.
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted in IEEE TIP. 
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted in Neural Networks. 
-- *2020.12*: &nbsp;🎉🎉 We won the Bronze Medal at the ICPC Asia Regional Contest (Shanghai Site). Thanks to teammates Zhuowen Yan and Rufeng Yang.
+- *2026.04.25*: &nbsp;🎉🎉 One paper is accepted in IEEE TPAMI.
+- *2025.10.14*: &nbsp;🎉🎉 One paper is accepted in IEEE TIP. 
+- *2025.06.26*: &nbsp;🎉🎉 One paper is accepted in Neural Networks. 
+- *2020.12.13*: &nbsp;🎉🎉 We won the Bronze Medal at the ICPC Asia Regional Contest (Shanghai Site). Thanks to teammates Zhuowen Yan and Rufeng Yang.
 
 # 📝 Publications 
 
