@@ -21,11 +21,23 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted in IEEE TPAMI.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted in IEEE TIP. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted in Neural Networks. 
-- *2020.12*: &nbsp;🎉🎉 Won the Bronze Medal at the ICPC Asia Regional Contest (Shanghai). Thanks to teammates Zhuowen Yan and Rufeng Yang.
+- *2020.12*: &nbsp;🎉🎉 We won the Bronze Medal at the ICPC Asia Regional Contest (Shanghai Site). Thanks to teammates Zhuowen Yan and Rufeng Yang.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2026</div><img src='images/TPAMI2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dataset distillation via a noise-unconstrained generative model](https://ieeexplore.ieee.org/abstract/document/11509640)
+
+**Jingxuan Zhang**, Lei Dai, Fei Ye, Zhihua Chen*, Ping Li, Xiaokang Yang, and Bin Sheng*
+
+**IEEE TPAMI 2026** \| [**Code**](https://github.com/Zhang-Jing-Xuan/DD-NU) <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025</div><img src='images/TIP2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
