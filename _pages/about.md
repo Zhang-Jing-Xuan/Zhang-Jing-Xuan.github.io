@@ -33,9 +33,9 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 [Dataset distillation via a noise-unconstrained generative model](https://ieeexplore.ieee.org/abstract/document/11509640)
 
-**Jingxuan Zhang**, Lei Dai, Fei Ye, Zhihua Chen*, Ping Li, Xiaokang Yang, and Bin Sheng*
+**Jingxuan Zhang**, Lei Dai, Fei Ye, Zhihua Chen\*, Ping Li, Xiaokang Yang, and Bin Sheng\*
 
-**IEEE TPAMI 2026** \| [**Code**](https://github.com/Zhang-Jing-Xuan/DD-NU) <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+**IEEE TPAMI 2026** <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
 </div>
 
@@ -44,7 +44,7 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 [Unleashing the power of each distilled image](https://ieeexplore.ieee.org/document/11220248)
 
-**Jingxuan Zhang**, Zhihua Chen*, and Lei Dai*
+**Jingxuan Zhang**, Zhihua Chen\*, and Lei Dai\*
 
 **IEEE TIP 2025** \| [**Code**](https://github.com/Zhang-Jing-Xuan/DD-UP) <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
@@ -55,7 +55,7 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 [Gradient amplification for gradient matching based dataset distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006999)
 
-**Jingxuan Zhang**, Zhihua Chen*, Lei Dai, Ping Li, and Bin Sheng*
+**Jingxuan Zhang**, Zhihua Chen\*, Lei Dai, Ping Li, and Bin Sheng\*
 
 **Neural Networks 2025** \| [**Code**](https://github.com/Zhang-Jing-Xuan/DD-GA) <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
