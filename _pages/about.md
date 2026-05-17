@@ -35,7 +35,7 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 
 **Jingxuan Zhang**, Lei Dai, Fei Ye, Zhihua Chen\*, Ping Li, Xiaokang Yang, and Bin Sheng\*
 
-**IEEE TPAMI 2026** <strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+**IEEE TPAMI 2026** \| [**Code**](https://github.com/Zhang-Jing-Xuan/DD-NU)<strong><span class='show_paper_citations' data='1rRBJtQAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
 </div>
 
