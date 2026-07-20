@@ -73,7 +73,3 @@ I am broadly interested in *efficient computer vision and machine learning*, wit
 # 📖 Educations
 - *2022.09 - Present*, East China University of Science and Technology, Shanghai, China, Ph.D. in Computer Science and Engineering. 
 - *2018.09 - 2022.06*, East China University of Science and Technology, Shanghai, China, B.E. in Computer Science and Engineering.
-
-# 🏊‍♂️ Hobbies
-- Swimming, table tennis.
-- Playing the piano.
